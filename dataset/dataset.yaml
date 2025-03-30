@@ -1,0 +1,5 @@
+train: ../dataset/images/train/
+val: ../dataset/images/val/
+
+nc: 4  # Número de classes (exemplo: 4 emoções)
+names: ["feliz", "triste", "surpreso", "neutro"]  # Lista das classes
